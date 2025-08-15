@@ -1,0 +1,8 @@
+{
+  "architectures": [
+    "MobileNetV2WithArcFace"
+  ],
+  "num_classes": 10572,
+  "torch_dtype": "float32",
+  "transformers_version": "4.54.1"
+}
